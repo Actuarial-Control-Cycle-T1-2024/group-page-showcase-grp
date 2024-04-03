@@ -24,3 +24,24 @@ andre testing: [102.csv](102.csv) [some policy premiums](csv)
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
+
+
+
+
+# Lumaria: Health Care Incentive Program for SuperLife
+## 2024 SOA Student Research Case Study
+Team GRP: Alexander Gerlyand, Mack Huang, Jayden Ly, Andre Wang, Robert Zheng
+
+## Introduction
+
+GRP has been tasked with improving Lumarian policyholder expected mortality for those who have purchased SuperLife’s whole life and term insurance products through being paired with incentive programs. Lumaria as a country is rich with cultural heritage whilst maintaining modernity. It offers a temperate climate, world renowned natural landmarks. Lumaria’s population has high literacy rates, an 18% smoking rate, and has access to universal healthcare. In this report, GRP aims to take advantage of Lumaria’s unique features in the form of a 3 intervention Health Incentive Program to achieve the objectives below.
+
+## Objectives
+The main objectives of the health incentive program are to:
+- Incentivise healthy behaviours through participation in the program
+- Decrease expected mortality
+- Increase life insurance sales
+- Improve product marketability and competitiveness
+- Add economic value to SuperLife
+
+The key metrics to measure the success of the program are profit, participation rate, impact on mortality (success rate) and surveys to see customer satisfaction. These metrics would be continuously monitored to ensure the Health Incentive Program is on track, and to inform SuperLife of how to adjust program parameters to ensure smooth operation into the future.
