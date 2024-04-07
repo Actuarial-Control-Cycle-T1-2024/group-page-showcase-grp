@@ -19,8 +19,8 @@ The main objectives of the health incentive program are to:
 The key metrics to measure the success of the program are profit, participation rate, impact on mortality (success rate) and surveys to see customer satisfaction. These metrics would be continuously monitored to ensure the Health Incentive Program is on track, and to inform SuperLife of how to adjust program parameters to ensure smooth operation into the future.
 
 ## Risk and Risk Mitigation Considerations
-| Quantitative Risk                                               | Mitigation  |
-|-----------------------------------------------------------------|----------------------------------------------------------------------------|
+| Qualitative Risk                                                   | Mitigation  |
+|--------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | Reinvestment risk related to investments into fixed income securities which are susceptible to interest rate fluctuations | Test the effects of adverse interest fluctuations on discounted profits. Hedge against decreasing long-term interest rates by buying interest rate options |
 | Economic forecasts risk                                         | Future forecasted rates of inflation and interest rates do not reflect true movements in variables impacting accuracy of the model |
 | Expense risk relating to maintenance of incentives programs      | Conducting cost-benefit analysis to evaluate effectiveness of different incentives programs, cost-plus process to ensure profits are maintained |
