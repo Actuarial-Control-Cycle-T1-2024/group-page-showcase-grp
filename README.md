@@ -73,6 +73,7 @@ Mortality statistics can be derived for smokers and non smokers from the policy 
 - Aggregate profits on the last twenty years were estimated using before and after intervention, using a reduction in mortality after intervention computed on given mortality reduction bounds of 4.94% and 9.76%. The impact of the smoking cessation program was modelled across the entire range of cessation proportions, and mortality of lapsed smokers was estimated as the average of smokers and nonsmokers according to our assumption. Initial expenses were increased with the introduction of interventions based on given costs and research (Program). Smoker policies incurred expenses associated with the smoking cessation program.
 - The aggregate profit was calculated by holding the premium constant with reduced mortalities and higher expenses across the current count of policyholders.
 - Aggregate future profits were again calculated by considering the reduction in mortality and the increase in expense.
+![central_profit_proj](central_profit_proj.png)
 
 ## Sensitivity Analysis
 - Due to a lack of understanding of SuperLife’s expense structure, and external impacts listed in the Risk and Risk Mitigation Considerations section, a set of three estimates of expenses were used to calculate profits of SuperLife, representing the optimistic, pessimistic, and central estimates.
@@ -80,7 +81,7 @@ Mortality statistics can be derived for smokers and non smokers from the policy 
 - Due to reinvestment risk, three scenarios of interest rates were also used.
 - In mitigating model risk with regards to predictions on customer growth, lower and upper confidence bounds of 95% were further considered.
 - A range of estimated change in profits were calculated on intervention impacts if the intervention were introduced twenty years ago, with a figure of 15% increase in profit assuming the pessimistic expenses scenario. 
-![GRAPH](filename)
+![sensitivity](sensitivity.png)
 - The projections highlight that the intervention should outperform sales without the intervention.
 - In the most pessimistic scenario, the expected cumulative profits in 2028, 2033 and 2043 are 203.97%, 208.03%, and 170.64% more than the corresponding profit without intervention in that scenario.
 - In the most optimistic scenario, the expected cumulative profits in 2028, 2033 and 2043 are 247.25%, 248.47%, and 206.95% more than the corresponding profit without intervention in that scenario.
