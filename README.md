@@ -1,4 +1,4 @@
-You can view the final report [here](grp_report.pdf)
+You can view the final report [here](grp_report.pdf).
 ![theme](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-grp/assets/144538514/8b2c93c5-d6f8-476c-a968-a6282b86ca1a)
  Lumaria: Health Care Incentive Program for SuperLife
 ## 2024 SOA Student Research Case Study
@@ -35,7 +35,7 @@ Is the mortality of smokers different to non-smokers?
 How are urban and rural policyholders distributed between underwriting classes?
 Are rural policyholders different in lifespan to urban policyholders?
 
-Scripts used to explore data can be viewed [here](eda) .
+Scripts used to explore data can be viewed [here](eda).
 
 
 ## Data limitations
