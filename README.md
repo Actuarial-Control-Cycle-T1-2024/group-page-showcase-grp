@@ -58,7 +58,7 @@ Mortality statistics can be derived for smokers and non smokers from the policy 
 - The investment growth rate was assumed to be the risk free 1 year spot rate and the risk discount rate was assumed to be the overnight rate plus a 5% risk loading
 - Overnight interest rates and 1 year spot rates were projected for the next 20 years using double exponential smoothing for pricing of T20 policies. Sensitivity testing varied the interest rate within the 30% CI interval of interest rate predictions. 
 - For SPWL policies, interest rates were assumed to be constant in the long term and we tested different levels between the historical extremes. 
-<p align="center"><img src='mortality_rates.jpeg' width='50%'></p>
+<p align="center"><img src='mortality_rates.jpeg' width='100%'></p>
 
 ### Policyholder projections
 - Future policies counts were projected by age, underwriting class, face amount, and smoker status.
