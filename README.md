@@ -43,11 +43,37 @@ Mortality statistics can be derived for smokers and non smokers from the policy 
 - Using Kaplan Meier’s method, crude estimates of mortality rates were obtained for categories of policy holders based on smoker and underwriting status and were graduated with reference to the 2010 Lumerian Life Table for the general population
 ![lapse_rates](lapse_rates.jpeg)
   
-## Economic rates modelling
+### Economic rates modelling
 - The investment growth rate was assumed to be the risk free 1 year spot rate and the risk discount rate was assumed to be the overnight rate plus a 5% risk loading
 - Overnight interest rates and 1 year spot rates were projected for the next 20 years using double exponential smoothing for pricing of T20 policies. Sensitivity testing varied the interest rate within the 30% CI interval of interest rate predictions. 
 - For SPWL policies, interest rates were assumed to be constant in the long term and we tested different levels between the historical extremes. 
 ![mortality_rates](mortality_rates.jpeg)
+
+### Policyholder projections
+- Future policies counts were projected by age, underwriting class, face amount, and smoker status.
+- After finding that the number of newly issued policies to each underwriting class and smoker status followed a visibly linear trend, simple linear regressions were used on different types of policyholder to predict future counts.
+- The linearity assumption was based on linear historical data, and holds intuitive validity as policyholder count would be expected to consist of both population and economic growth.
+
+### Premium pricing
+- Profit was calculated on a per-policy basis by first calculating zero-profit net premiums for policies issued in different years to individuals of different smoking status, underwriting class, and age using the equivalence principle.
+- Zero-profit premiums were then increased by a loading dependent on the underwriting class to create profitable premiums. The loadings were computed based on the volatility of crude mortality estimates qx using the sum of squares of standardised residuals
+- An estimate of initial expense as well as ongoing expenses were based on research on other life insurance companies’ cash flows.
+- Premiums were calculated for each issue age band (26-35, 36-45, 46-50, 51-55, 56-65). Issue age bands were chosen so that there was an approximately equal number of observations in each bin. More bins were required towards higher ages due to the steep increase in mortality after age 60, and higher risk groups should be separately charged appropriate premiums to mitigate a possible inequitable access risk. 
+- Aggregate profits on the last twenty years were estimated using before and after intervention, using a reduction in mortality after intervention computed on given mortality reduction bounds of 4.94% and 9.76%. The impact of the smoking cessation program was modelled across the entire range of cessation proportions, and mortality of lapsed smokers was estimated as the average of smokers and nonsmokers according to our assumption. Initial expenses were increased with the introduction of interventions based on given costs and research (Program). Smoker policies incurred expenses associated with the smoking cessation program.
+- The aggregate profit was calculated by holding the premium constant with reduced mortalities and higher expenses across the current count of policyholders.
+- Aggregate future profits were again calculated by considering the reduction in mortality and the increase in expense.
+
+## Sensitivity Analysis
+- Due to a lack of understanding of SuperLife’s expense structure, and external impacts listed in the Risk and Risk Mitigation Considerations section, a set of three estimates of expenses were used to calculate profits of SuperLife, representing the optimistic, pessimistic, and central estimates.
+- The impact of each intervention on mortality had a degree of uncertainty and thus the upper and lower bounds of the impact were considered.
+- Due to reinvestment risk, three scenarios of interest rates were also used.
+- In mitigating model risk with regards to predictions on customer growth, lower and upper confidence bounds of 95% were further considered.
+- A range of estimated change in profits were calculated on intervention impacts if the intervention were introduced twenty years ago, with a figure of 15% increase in profit assuming the pessimistic expenses scenario. 
+![GRAPH](filename)
+- The projections highlight that the intervention should outperform sales without the intervention.
+- In the most pessimistic scenario, the expected cumulative profits in 2028, 2033 and 2043 are 203.97%, 208.03%, and 170.64% more than the corresponding profit without intervention in that scenario.
+- In the most optimistic scenario, the expected cumulative profits in 2028, 2033 and 2043 are 247.25%, 248.47%, and 206.95% more than the corresponding profit without intervention in that scenario.
+- An unfavourable scenario we investigated was the exclusive underwriting of 20 year term policies to 35 year old smokers with a zero cessation rate, in which we observed an annual drop in profits of 9.16% due to the largely increased expenses.
 
 ## Risk and Risk Mitigation Considerations
 
@@ -68,8 +94,8 @@ Mortality statistics can be derived for smokers and non smokers from the policy 
 | Negative Public Perception risk: If the program is perceived as exploiting users for their personal data or promoting unattainable body image standards.| Being transparent about privacy policies and data usage. Emphasis on the program being to promote healthier lifestyles rather than a focus on physical appearance. 
 | Inequitable access risk: Socioeconomic factors may affect accessibility of programs to certain subsections of the population. | Implementing outreach programs and potential subsidies to make programs more accessible for everybody. Apps would have better UI and UX to accommodate for people who are less technologically literate.
 
+## Conclusion and Recommendations
+The potential for SuperLife’s growth and development in Lumaria’s health through our proposed Well-being app, smoking cessation and hiking groups is significant. By investing in these proactive measures, SuperLife stands to realise reduced healthcare costs, fewer insurance claims, and enhanced customer satisfaction, creating shared value within Lumaria. 
 
-
-
-
+To increase the likelihood of success in the future, regular maintenance must be implemented on the program design. Constant monitoring of key metrics of profit, policyholder mortality, customer satisfaction and participation rates will allow SuperLife to complete the actuarial control cycle, continually adjusting project parameters to cater for the ever-changing economic and consumer environment in which the company operates.
 
