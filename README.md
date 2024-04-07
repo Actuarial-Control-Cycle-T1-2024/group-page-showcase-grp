@@ -72,7 +72,7 @@ Mortality statistics can be derived for smokers and non smokers from the policy 
 - Premiums were calculated for each issue age band (26-35, 36-45, 46-50, 51-55, 56-65). Issue age bands were chosen so that there was an approximately equal number of observations in each bin. More bins were required towards higher ages due to the steep increase in mortality after age 60, and higher risk groups should be separately charged appropriate premiums to mitigate a possible inequitable access risk. 
 - Aggregate profits on the last twenty years were estimated using before and after intervention, using a reduction in mortality after intervention computed on given mortality reduction bounds of 4.94% and 9.76%. The impact of the smoking cessation program was modelled across the entire range of cessation proportions, and mortality of lapsed smokers was estimated as the average of smokers and nonsmokers according to our assumption. Initial expenses were increased with the introduction of interventions based on given costs and research (Program). Smoker policies incurred expenses associated with the smoking cessation program.
 - The aggregate profit was calculated by holding the premium constant with reduced mortalities and higher expenses across the current count of policyholders.
-- Aggregate future profits were again calculated by considering the reduction in mortality and the increase in expense.
+- Aggregate future profits were again calculated by considering the reduction in mortality and the increase in expense. Below are the projected profits.
 ![central_profit_proj](central_profit_proj.png)
 
 ## Sensitivity Analysis
