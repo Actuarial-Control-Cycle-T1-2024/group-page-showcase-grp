@@ -1,4 +1,4 @@
-andre testing: [102.csv](102.csv) [some policy premiums](csv)
+You can view the final report ![here](Team GRP Report .pdf)
 ![theme](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-grp/assets/144538514/8b2c93c5-d6f8-476c-a968-a6282b86ca1a)
  Lumaria: Health Care Incentive Program for SuperLife
 ## 2024 SOA Student Research Case Study
