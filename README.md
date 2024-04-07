@@ -52,13 +52,13 @@ Mortality statistics can be derived for smokers and non smokers from the policy 
 ### Decrements Modelling
 - Lapse rates for each year of the 20 year level term (T20) insurance policy were calculated using the internal policies in-force data set. 
 - Using Kaplan Meier’s method, crude estimates of mortality rates were obtained for categories of policy holders based on smoker and underwriting status and were graduated with reference to the 2010 Lumerian Life Table for the general population
-![lapse_rates](lapse_rates.jpeg)
+<p align="center"><img src='lapse_rates.jpeg' width='50%'></p>
   
 ### Economic rates modelling
 - The investment growth rate was assumed to be the risk free 1 year spot rate and the risk discount rate was assumed to be the overnight rate plus a 5% risk loading
 - Overnight interest rates and 1 year spot rates were projected for the next 20 years using double exponential smoothing for pricing of T20 policies. Sensitivity testing varied the interest rate within the 30% CI interval of interest rate predictions. 
 - For SPWL policies, interest rates were assumed to be constant in the long term and we tested different levels between the historical extremes. 
-![mortality_rates](mortality_rates.jpeg)
+<p align="center"><img src='mortality_rates.jpeg' width='50%'></p>
 
 ### Policyholder projections
 - Future policies counts were projected by age, underwriting class, face amount, and smoker status.
