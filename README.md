@@ -20,11 +20,14 @@ The key metrics to measure the success of the program are profit, participation 
 
 ## Risk and Risk Mitigation Considerations
 
-| Qualitative Risk                                                   | Mitigation  |
-|--------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| Reinvestment risk related to investments into fixed income securities which are susceptible to interest rate fluctuations | Test the effects of adverse interest fluctuations on discounted profits. Hedge against decreasing long-term interest rates by buying interest rate options
-| Economic forecasts risk | Future forecasted rates of inflation and interest rates do not reflect true movements in variables impacting accuracy of the model
-
+| Qualitative Risk 	| Mitigation 	|
+|---	|---	|
+| Reinvestment risk related to investments into fixed income securities which are susceptible to interest rate fluctuations 	| Test the effects of adverse interest fluctuations on discounted profits. Hedge against decreasing long-term interest rates by buying interest rate options 	|
+| Economic forecasts risk 	| Future forecasted rates of inflation and interest rates do not reflect true movements in variables impacting accuracy of the model 	|
+| Expense risk relating to maintenance of incentives programs 	| Conducting cost-benefit analysis to evaluate effectiveness of different incentives programs, cost-plus process to ensure profits are maintained 	|
+| Cost overrun risk where project costs deviate from actual experience 	| Establish contingency funds to address unexpected program costs and fluctuations in expenses. 	|
+| Low participation rates in incentive programs - expected mortality and economics benefits will not be realised 	| Implement increased targeted market campaigns focusing on the distribution channels and educational initiatives to promote program awareness and encourage participation among policyholders. 	|
+| Pandemic Risk: a pandemic may present an adverse change to the mortality of Lumarians 	| Sensitivity testing for extreme increases in mortality rate caused by pandemic 	|
 
 ![Risk Matrix](risk-matrix.png)
 
