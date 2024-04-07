@@ -89,16 +89,16 @@ Mortality statistics can be derived for smokers and non smokers from the policy 
 ## Assumptions
 | Assumption                              | Rationale and Analysis                                                                                                   |
 |-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| Conservative investment growth rate     | Conservative investment growth rate assumed to be equal to the risk-free 1 year spot rate.                             |
-| Prevalent decrements for T20 and SPWL  | Assume that the only decrements for term policies are withdrawal and deaths. For single premium policies, only decrement is death. |
-| Lapse rates                             | Lapse rates are constant for the duration of the policy. This was supported by our lapse rates estimates from the in force dataset. |
-| Mortality curves of Lumarians           | The shape of the mortality curves of Superlife’s insured policyholders should follow that of the general population in 2010 provided by Superlife. Assume the mortality curves of different subsets of insured policy holders can be obtained by a linear transformation of the provided mortality curve. |
-| Commissions and expenses                | Payment of commissions and expenses over time could be appropriately based on figures from existing insurance companies. |
-| Independence of intervention effect     | The impacts of each intervention program were independent of each other, to ease calculations. Their impact was also assumed to be the same per policyholder, despite the possibility that specific individuals would benefit more from the intervention. |
-| The mortality of lapsed smokers         | The mortality of lapsed smokers lies between the mortality of smokers and nonsmokers.                                     |
-| Exchange to USD                         | Assume the exchange rate from Lumarian Crowns to USD is pegged at a single rate. All calculations were made in USD at this pegged exchange rate. |
-| Participation rate                      | The participation rate is a function of benefits provided by the intervention.                                           |
-| Youngest Age                            | The youngest age of a person purchasing insurance was 26.                                                               |
+| Conservative investment growth rate     | Conservative investment growth rate assumed to be equal to the risk-free 1 year spot rate.                             
+| Prevalent decrements for T20 and SPWL  | Assume that the only decrements for term policies are withdrawal and deaths. For single premium policies, only decrement is death. 
+| Lapse rates                             | Lapse rates are constant for the duration of the policy. This was supported by our lapse rates estimates from the in force dataset. 
+| Mortality curves of Lumarians           | The shape of the mortality curves of Superlife’s insured policyholders should follow that of the general population in 2010 provided by Superlife. Assume the mortality curves of different subsets of insured policy holders can be obtained by a linear transformation of the provided mortality curve. 
+| Commissions and expenses                | Payment of commissions and expenses over time could be appropriately based on figures from existing insurance companies. 
+| Independence of intervention effect     | The impacts of each intervention program were independent of each other, to ease calculations. Their impact was also assumed to be the same per policyholder, despite the possibility that specific individuals would benefit more from the intervention. 
+| The mortality of lapsed smokers         | The mortality of lapsed smokers lies between the mortality of smokers and nonsmokers.                                     
+| Exchange to USD                         | Assume the exchange rate from Lumarian Crowns to USD is pegged at a single rate. All calculations were made in USD at this pegged exchange rate. 
+| Participation rate                      | The participation rate is a function of benefits provided by the intervention.                                           
+| Youngest Age                            | The youngest age of a person purchasing insurance was 26.                                                               
 
 ## Risk and Risk Mitigation Considerations
 
