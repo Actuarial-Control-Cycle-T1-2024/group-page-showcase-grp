@@ -27,6 +27,13 @@ Exploratory Data Analysis (EDA) has shown that leading causes of death within Su
 - a Smoking Cessation program that offers a comprehensive platform for policyholders seeking to quit smoking, providing crucial resources and support tailored for individual needs
 - a Hiking and Outdoor Activities Group that offers a platform for policyholders to engage in physical activities amidst Lumaria’s Luminous Lake, Skyreach and Whispering Woods. This program’s main objective is to improve policyholders' all round health with particular focus on cardiovascular and mental health
 
+## Marketability and Distribution
+For SuperLife to fully benefit from the proposed Health Incentive Program, current and prospective policyholders must know the health benefits and cost savings they can provide. Our EDA has shown that Agents had the greatest proportion of existing sales, indicating that one key way for SuperLife to increase participation in the programs is to train agents to market the bundled Health Incentive Program to their existing and future clients. 
+
+However, international trends show a shift towards increased online interaction with consumers. Google reported that mobile queries containing “insurance near me” grew over 100% in the period 2017-19. A report from SageFrog Marketing Group also showed that 89% of consumers searched the internet for reviews before commencing any action. It is therefore evident that the Marketing department’s resources should be invested into creating a transparent online presence, exhibiting SuperLife’s commitment to improving policyholder and community health.
+
+As a conclusion, SuperLife should start making a transition to creating a stronger online presence in the long term, as shifting consumer paradigms mean SuperLife must accommodate increased online interaction. However, to cater for the current climate where life insurance consumers prefer speaking to live agents, training agents to effectively communicate and promote the bundled programs is most appropriate.
+
 ## Exploratory Data Analysis
 Lengthy EDA was conducted. Members investigated answers to many questions using the data, such as: 
 What current distribution channels have been successful for the company? 
