@@ -87,8 +87,8 @@ Mortality statistics can be derived for smokers and non smokers from the policy 
 - An unfavourable scenario we investigated was the exclusive underwriting of 20 year term policies to 35 year old smokers with a zero cessation rate, in which we observed an annual drop in profits of 9.16% due to the largely increased expenses.
 
 ## Assumptions
-| Assumption                              | Rationale and Analysis                                                                                                   |
-|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Assumption     | Rationale and Analysis    |
+|-----------------------------------------|-----------------------------------------------------------------------------|
 | Conservative investment growth rate     | Conservative investment growth rate assumed to be equal to the risk-free 1 year spot rate. 
 | Prevalent decrements for T20 and SPWL  | Assume that the only decrements for term policies are withdrawal and deaths. For single premium policies, only decrement is death. 
 | Lapse rates                             | Lapse rates are constant for the duration of the policy. This was supported by our lapse rates estimates from the in force dataset. 
