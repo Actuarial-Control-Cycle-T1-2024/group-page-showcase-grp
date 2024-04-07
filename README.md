@@ -27,6 +27,17 @@ Exploratory Data Analysis (EDA) has shown that leading causes of death within Su
 - a Smoking Cessation program that offers a comprehensive platform for policyholders seeking to quit smoking, providing crucial resources and support tailored for individual needs
 - a Hiking and Outdoor Activities Group that offers a platform for policyholders to engage in physical activities amidst Lumaria’s Luminous Lake, Skyreach and Whispering Woods. This program’s main objective is to improve policyholders' all round health with particular focus on cardiovascular and mental health
 
+## Exploratory Data Analysis
+Lengthy EDA was conducted. Members investigated answers to many questions using the data, such as: 
+What current distribution channels have been successful for the company? 
+What has the total payout been so far?
+Is the mortality of smokers different to non-smokers?
+How are urban and rural policyholders distributed between underwriting classes?
+Are rural policyholders different in lifespan to urban policyholders?
+
+Scripts used to explore data, and results, can be viewed [here](eda) .
+
+
 ## Data limitations
 ### Limited data
 There were significantly fewer instances of certain policyholders, which would lead to higher standard error of mortality estimates. 
