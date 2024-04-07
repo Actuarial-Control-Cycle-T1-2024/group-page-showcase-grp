@@ -37,12 +37,11 @@ Are rural policyholders different in lifespan to urban policyholders?
 
 Scripts used to explore data can be viewed [here](eda).
 
-
 ## Data limitations
 ### Limited data
-There were significantly fewer instances of certain policyholders, which would lead to higher standard error of mortality estimates. 
+There were significantly fewer instances of certain policyholders, which would lead to higher standard error of mortality estimates.
 ### Homogeneity 
-The lack of discernible patterns within the dataset with respect to underwriting class and regions would complicate the task of identifying and engineering relevant features. 
+The lack of discernible patterns within the dataset with respect to underwriting class and regions would complicate the task of identifying and engineering relevant features.
 ### Economics data
 Inflation, overnight interest and spot rates are provided annually from 1962 to 2023. Limited data would lead to restrictions on the accuracy of projections.
 ### Multiple States Transition Data
