@@ -9,6 +9,7 @@ Team GRP: Alexander Gerlyand, Mack Huang, Jayden Ly, Andre Wang, Robert Zheng
 GRP has been tasked with improving Lumarian policyholder expected mortality for those who have purchased SuperLife’s whole life and term insurance products through being paired with incentive programs. Lumaria as a country is rich with cultural heritage whilst maintaining modernity. It offers a temperate climate, world renowned natural landmarks. Lumaria’s population has high literacy rates, an 18% smoking rate, and has access to universal healthcare. In this report, GRP aims to take advantage of Lumaria’s unique features in the form of a 3 intervention Health Incentive Program to achieve the objectives below.
 
 ### Objectives
+
 The main objectives of the health incentive program are to:
 - Incentivise healthy behaviours through participation in the program
 - Decrease expected mortality
@@ -20,7 +21,7 @@ The key metrics to measure the success of the program are profit, participation 
 
 ## Program Design
 
-Exploratory Data Analysis (EDA) has shown that leading causes of death within SuperLife’s policyholders are cancer and cardiovascular disease (Figure 1.1). Therefore, the interventions chosen to make up the Health Incentive Program are targeted towards reducing the incidence of these conditions. These programs are:
+Exploratory Data Analysis (EDA) has shown that leading causes of death within SuperLife’s policyholders are cancer and cardiovascular disease. Therefore, the interventions chosen to make up the Health Incentive Program are targeted towards reducing the incidence of these conditions. These programs are:
 1. Well-being app with fitness tracking incentives
 2. Smoking cessation programs
 3. Hiking group
