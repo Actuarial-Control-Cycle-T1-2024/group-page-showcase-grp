@@ -27,6 +27,16 @@ Exploratory Data Analysis (EDA) has shown that leading causes of death within Su
 - a Smoking Cessation program that offers a comprehensive platform for policyholders seeking to quit smoking, providing crucial resources and support tailored for individual needs
 - a Hiking and Outdoor Activities Group that offers a platform for policyholders to engage in physical activities amidst Lumaria’s Luminous Lake, Skyreach and Whispering Woods. This program’s main objective is to improve policyholders' all round health with particular focus on cardiovascular and mental health
 
+## Data limitations
+### Limited data
+There were significantly fewer instances of certain policyholders, which would lead to higher standard error of mortality estimates. 
+### Homogeneity 
+The lack of discernible patterns within the dataset with respect to underwriting class and regions would complicate the task of identifying and engineering relevant features. 
+### Economics data
+Inflation, overnight interest and spot rates are provided annually from 1962 to 2023. Limited data would lead to restrictions on the accuracy of projections.
+### Multiple States Transition Data
+Mortality statistics can be derived for smokers and non smokers from the policy in force data set. However, it doesn’t provide information or have a separate state for ex-smokers. Collecting data on smokers to quit smoking would help better quantify the mortality savings of our smoking cessation program.
+
 ## Risk and Risk Mitigation Considerations
 
 | Qualitative Risk                                                   | Mitigation  |
