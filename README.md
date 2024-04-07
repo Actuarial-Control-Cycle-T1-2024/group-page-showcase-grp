@@ -23,9 +23,9 @@ The key metrics to measure the success of the program are profit, participation 
 
 Exploratory Data Analysis (EDA) has shown that leading causes of death within SuperLife’s policyholders are cancer and cardiovascular disease. Therefore, the interventions chosen to make up the Health Incentive Program are targeted towards reducing the incidence of these conditions. These programs are:
 
-1. a Well-being app with Fitness tracking incentives that aims to provide a convenient platform for policyholders to monitor and enhance their physical and mental well-being
-2. a Smoking Cessation program that offers a comprehensive platform for policyholders seeking to quit smoking, providing crucial resources and support tailored for individual needs
-3. a Hiking and Outdoor Activities Group that offers a platform for policyholders to engage in physical activities amidst Lumaria’s Luminous Lake, Skyreach and Whispering Woods. This program’s main objective is to improve policyholders' all round health with particular focus on cardiovascular and mental health
+- a Well-being app with Fitness tracking incentives that aims to provide a convenient platform for policyholders to monitor and enhance their physical and mental well-being
+- a Smoking Cessation program that offers a comprehensive platform for policyholders seeking to quit smoking, providing crucial resources and support tailored for individual needs
+- a Hiking and Outdoor Activities Group that offers a platform for policyholders to engage in physical activities amidst Lumaria’s Luminous Lake, Skyreach and Whispering Woods. This program’s main objective is to improve policyholders' all round health with particular focus on cardiovascular and mental health
 
 ## Risk and Risk Mitigation Considerations
 
