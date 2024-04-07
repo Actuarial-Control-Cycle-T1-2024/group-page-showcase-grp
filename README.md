@@ -35,7 +35,7 @@ Is the mortality of smokers different to non-smokers?
 How are urban and rural policyholders distributed between underwriting classes?
 Are rural policyholders different in lifespan to urban policyholders?
 
-Scripts used to explore data, and results, can be viewed [here](eda) .
+Scripts used to explore data can be viewed [here](eda) .
 
 
 ## Data limitations
