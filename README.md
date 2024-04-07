@@ -27,7 +27,18 @@ Exploratory Data Analysis (EDA) has shown that leading causes of death within Su
 - a Smoking Cessation program that offers a comprehensive platform for policyholders seeking to quit smoking, providing crucial resources and support tailored for individual needs
 - a Hiking and Outdoor Activities Group that offers a platform for policyholders to engage in physical activities amidst Lumaria’s Luminous Lake, Skyreach and Whispering Woods. This program’s main objective is to improve policyholders' all round health with particular focus on cardiovascular and mental health
 
-## Marketability and Distribution
+### Well-being app with Fitness Tracking Incentives
+The Well-being app with Fitness tracking incentives aims to provide a convenient platform for policyholders to monitor and enhance their physical and mental well-being. Through features such as personalised fitness goals, activity tracking and actionable insights, the app encourages active engagement. Policyholders are incentivised to utilise fitness trackers to monitor and improve their physical activity levels through achieving health-related milestones, with rewards including cash-back incentives, supermarket vouchers and lottery schedule rewards. The accessibility and convenience of mobile apps for fitness tracking promote higher participation rates and increase in policyholders. Weekly motivational messages and notifications further encourage sustained engagement and goal achievement. By focussing on decreasing the risk of cardiovascular disease and mortality rates while improving overall health outcomes, the program offers tangible benefits to both individuals and insurers, fostering a mutually beneficial relationship built on promoting healthier lifestyle choices.
+
+### Smoking Cessation Program
+The Smoking Cessation program offers a comprehensive platform for policyholders seeking to quit smoking, providing crucial resources and support tailored for individual needs. This program addresses the significant health concerns of cancer and cardiovascular disease among policyholders as well as the general population. EDA showed a significant difference in mortality upon smoking, making this an invaluable tool to improve the overall health of policyholders. Despite the smoking rate among the policyholders being a lower 6.31%, the projected increase in policyholders per year will attract those from the general population where a greater 18% are smokers. In addition to the health benefits such as reduction in risk of cardiovascular disease and cancer, the incentive for policyholders will also potentially reduce their long-term healthcare costs and improve their quality of life. The program also offers additional incentives to encourage participation such as access to support groups and discounts on health insurance premiums for non-smokers.
+
+### Hiking and Outdoor Activities Group
+The Hiking and Outdoor Activities Group offers a platform for policyholders to engage in physical activities amidst Lumaria’s Luminous Lake, Skyreach and Whispering Woods. This program’s main objective is to improve policyholders' all round health with particular focus on cardiovascular and mental health. Studies have shown that simply the act of being in nature has clear health benefits of reduced stress and improved recovery times. Combining this with group physical activity creates a platform for policyholders to connect, forge new relationships, whilst increasing the level of incidental exercise to improve cardiovascular health. Furthermore, sightseeing and socialising aspects of these activities make policyholders likely to persist in the program over time, reducing mortality. SuperLife can also leverage Lumarian public holidays such as Super Luminova to organise larger events and competitions to reward policyholder participation. Participation in these groups can be recorded in the aforementioned Well-being app to claim rewards.
+
+Real world applications of the aforementioned intervention programs are shown here
+
+### Marketability and Distribution
 For SuperLife to fully benefit from the proposed Health Incentive Program, current and prospective policyholders must know the health benefits and cost savings they can provide. Our EDA has shown that Agents had the greatest proportion of existing sales, indicating that one key way for SuperLife to increase participation in the programs is to train agents to market the bundled Health Incentive Program to their existing and future clients. 
 
 <p align="center"><img src='distribution_channels.png' width='50%'></p>
@@ -38,11 +49,11 @@ As a conclusion, SuperLife should start making a transition to creating a strong
 
 ## Exploratory Data Analysis
 Lengthy EDA was conducted. Members investigated answers to many questions using the data, such as: 
-What current distribution channels have been successful for the company? 
-What has the total payout been so far?
-Is the mortality of smokers different to non-smokers?
-How are urban and rural policyholders distributed between underwriting classes?
-Are rural policyholders different in lifespan to urban policyholders?
+- What current distribution channels have been successful for the company?
+- What has the total payout been so far?
+- Is the mortality of smokers different to non-smokers?
+- How are urban and rural policyholders distributed between underwriting classes?
+- Are rural policyholders different in lifespan to urban policyholders?
 
 Scripts used to explore data can be viewed [here](eda).
 
