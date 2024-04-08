@@ -124,7 +124,7 @@ Mortality statistics can be derived for smokers and non smokers from the policy 
 
 ## Risk and Risk Mitigation Considerations
 
-| Qualitative Risk                                                   | Mitigation  |
+| Quantitative Risk                                                   | Mitigation  |
 |--------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | Reinvestment risk related to investments into fixed income securities which are susceptible to interest rate fluctuations 	| Test the effects of adverse interest fluctuations on discounted profits. Hedge against decreasing long-term interest rates by buying interest rate options
 | Economic forecasts risk 	| Future forecasted rates of inflation and interest rates do not reflect true movements in variables impacting accuracy of the model
