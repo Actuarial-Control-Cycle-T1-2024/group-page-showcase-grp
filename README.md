@@ -1,23 +1,148 @@
-# Actuarial Theory and Practice A @ UNSW
+You can view the final report [here](grp_report.pdf).
+![theme](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-grp/assets/144538514/8b2c93c5-d6f8-476c-a968-a6282b86ca1a)
+ Lumaria: Health Care Incentive Program for SuperLife
+## 2024 SOA Student Research Case Study
+Team GRP: Alexander Gerlyand, Mack Huang, Jayden Ly, Andre Wang, Robert Zheng
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+## Introduction
 
----
+GRP has been tasked with improving Lumarian policyholder expected mortality for those who have purchased SuperLife’s whole life and term insurance products through being paired with incentive programs. Lumaria as a country is rich with cultural heritage whilst maintaining modernity. It offers a temperate climate, world renowned natural landmarks. Lumaria’s population has high literacy rates, an 18% smoking rate, and has access to universal healthcare. In this report, GRP aims to take advantage of Lumaria’s unique features in the form of a 3 intervention Health Incentive Program to achieve the objectives below.
 
-### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
+### Objectives
 
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
+The main objectives of the health incentive program are to:
+- Incentivise healthy behaviours through participation in the program
+- Decrease expected mortality
+- Increase life insurance sales
+- Improve product marketability and competitiveness
+- Add economic value to SuperLife
 
-This is written in markdown language. 
->
-* Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
+The key metrics to measure the success of the program are profit, participation rate, impact on mortality (success rate) and surveys to see customer satisfaction. These metrics would be continuously monitored to ensure the Health Incentive Program is on track, and to inform SuperLife of how to adjust program parameters to ensure smooth operation into the future.
 
-#### Follow the [guide doc](doc1.pdf) to submit your work. 
+## Program Design
 
-When you finish the task, please paste your link to the Excel [sheet](https://unsw-my.sharepoint.com/:x:/g/personal/z5096423_ad_unsw_edu_au/ETIxmQ6pESRHoHPt-PUleR4BuN0_ghByf7TsfSfgDaBhVg?rtime=GAd2OFNM3Eg) for Peer Feedback
----
->Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
+Exploratory Data Analysis (EDA) has shown that leading causes of death within SuperLife’s policyholders are cancer and cardiovascular disease. Therefore, the interventions chosen to make up the Health Incentive Program are targeted towards reducing the incidence of these conditions. These programs are:
 
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
+- a Well-being app with Fitness tracking incentives that aims to provide a convenient platform for policyholders to monitor and enhance their physical and mental well-being
+- a Smoking Cessation program that offers a comprehensive platform for policyholders seeking to quit smoking, providing crucial resources and support tailored for individual needs
+- a Hiking and Outdoor Activities Group that offers a platform for policyholders to engage in physical activities amidst Lumaria’s Luminous Lake, Skyreach and Whispering Woods. This program’s main objective is to improve policyholders' all round health with particular focus on cardiovascular and mental health
+
+### Well-being app with Fitness Tracking Incentives
+The Well-being app with Fitness tracking incentives aims to provide a convenient platform for policyholders to monitor and enhance their physical and mental well-being. Through features such as personalised fitness goals, activity tracking and actionable insights, the app encourages active engagement. Policyholders are incentivised to utilise fitness trackers to monitor and improve their physical activity levels through achieving health-related milestones, with rewards including cash-back incentives, supermarket vouchers and lottery schedule rewards. The accessibility and convenience of mobile apps for fitness tracking promote higher participation rates and increase in policyholders. Weekly motivational messages and notifications further encourage sustained engagement and goal achievement. By focussing on decreasing the risk of cardiovascular disease and mortality rates while improving overall health outcomes, the program offers tangible benefits to both individuals and insurers, fostering a mutually beneficial relationship built on promoting healthier lifestyle choices.
+
+### Smoking Cessation Program
+The Smoking Cessation program offers a comprehensive platform for policyholders seeking to quit smoking, providing crucial resources and support tailored for individual needs. This program addresses the significant health concerns of cancer and cardiovascular disease among policyholders as well as the general population. EDA showed a significant difference in mortality upon smoking, making this an invaluable tool to improve the overall health of policyholders. Despite the smoking rate among the policyholders being a lower 6.31%, the projected increase in policyholders per year will attract those from the general population where a greater 18% are smokers. In addition to the health benefits such as reduction in risk of cardiovascular disease and cancer, the incentive for policyholders will also potentially reduce their long-term healthcare costs and improve their quality of life. The program also offers additional incentives to encourage participation such as access to support groups and discounts on health insurance premiums for non-smokers.
+
+### Hiking and Outdoor Activities Group
+The Hiking and Outdoor Activities Group offers a platform for policyholders to engage in physical activities amidst Lumaria’s Luminous Lake, Skyreach and Whispering Woods. This program’s main objective is to improve policyholders' all round health with particular focus on cardiovascular and mental health. Studies have shown that simply the act of being in nature has clear health benefits of reduced stress and improved recovery times. Combining this with group physical activity creates a platform for policyholders to connect, forge new relationships, whilst increasing the level of incidental exercise to improve cardiovascular health. Furthermore, sightseeing and socialising aspects of these activities make policyholders likely to persist in the program over time, reducing mortality. SuperLife can also leverage Lumarian public holidays such as Super Luminova to organise larger events and competitions to reward policyholder participation. Participation in these groups can be recorded in the aforementioned Well-being app to claim rewards.
+
+Real world applications of the aforementioned intervention programs are shown [here](Intervention_Applications.md)
+
+### Marketability and Distribution
+For SuperLife to fully benefit from the proposed Health Incentive Program, current and prospective policyholders must know the health benefits and cost savings they can provide. Our EDA has shown that Agents had the greatest proportion of existing sales, indicating that one key way for SuperLife to increase participation in the programs is to train agents to market the bundled Health Incentive Program to their existing and future clients. 
+
+<p align="center"><img src='distribution_channels.png' width='50%'></p>
+
+However, international trends show a shift towards increased online interaction with consumers. Google reported that mobile queries containing “insurance near me” grew over 100% in the period 2017-19. A report from SageFrog Marketing Group also showed that 89% of consumers searched the internet for reviews before commencing any action. It is therefore evident that the Marketing department’s resources should be invested into creating a transparent online presence, exhibiting SuperLife’s commitment to improving policyholder and community health.
+
+As a conclusion, SuperLife should start making a transition to creating a stronger online presence in the long term, as shifting consumer paradigms mean SuperLife must accommodate increased online interaction. However, to cater for the current climate where life insurance consumers prefer speaking to live agents, training agents to effectively communicate and promote the bundled programs is most appropriate.
+
+## Exploratory Data Analysis
+Lengthy EDA was conducted. Members investigated answers to many questions using the data, such as: 
+- What current distribution channels have been successful for the company?
+- What has the total payout been so far?
+- Is the mortality of smokers different to non-smokers?
+- How are urban and rural policyholders distributed between underwriting classes?
+- Are rural policyholders different in lifespan to urban policyholders?
+
+Scripts used to explore data can be viewed [here](eda).
+
+## Data limitations
+### Limited data
+There were significantly fewer instances of certain policyholders, which would lead to higher standard error of mortality estimates.
+### Homogeneity 
+The lack of discernible patterns within the dataset with respect to underwriting class and regions would complicate the task of identifying and engineering relevant features.
+### Economics data
+Inflation, overnight interest and spot rates are provided annually from 1962 to 2023. Limited data would lead to restrictions on the accuracy of projections.
+### Multiple States Transition Data
+Mortality statistics can be derived for smokers and non smokers from the policy in force data set. However, it doesn’t provide information or have a separate state for ex-smokers. Collecting data on smokers to quit smoking would help better quantify the mortality savings of our smoking cessation program.
+
+## Pricing
+### Decrements Modelling
+- Lapse rates for each year of the 20 year level term (T20) insurance policy were calculated using the internal policies in-force data set.
+- Using Kaplan Meier’s method, crude estimates of mortality rates were obtained for categories of policy holders based on smoker and underwriting status and were graduated with reference to the 2010 Lumerian Life Table for the general population
+<p align="center"><img src='lapse_rates.jpeg' width='60%'></p> 
+<p align="center"><img src='mortality_rates.jpeg' width='100%'></p>
+  
+### Economic rates modelling
+- The investment growth rate was assumed to be the risk free 1 year spot rate and the risk discount rate was assumed to be the overnight rate plus a 5% risk loading
+- Overnight interest rates and 1 year spot rates were projected for the next 20 years using double exponential smoothing for pricing of T20 policies. Sensitivity testing varied the interest rate within the 30% CI interval of interest rate predictions. 
+- For SPWL policies, interest rates were assumed to be constant in the long term and we tested different levels between the historical extremes. 
+<p align="center"><img src='overnight_rates.jpeg' width='60%'></p>
+
+### Policyholder projections
+- Future policies counts were projected by age, underwriting class, face amount, and smoker status.
+- After finding that the number of newly issued policies to each underwriting class and smoker status followed a visibly linear trend, simple linear regressions were used on different types of policyholder to predict future counts.
+- The linearity assumption was based on linear historical data, and holds intuitive validity as policyholder count would be expected to consist of both population and economic growth.
+
+### Premium pricing
+- Profit was calculated on a per-policy basis by first calculating zero-profit net premiums for policies issued in different years to individuals of different smoking status, underwriting class, and age using the equivalence principle.
+- Zero-profit premiums were then increased by a loading dependent on the underwriting class to create profitable premiums. The loadings were computed based on the volatility of crude mortality estimates qx using the sum of squares of standardised residuals
+- An estimate of initial expense as well as ongoing expenses were based on research on other life insurance companies’ cash flows.
+- Premiums were calculated for each issue age band (26-35, 36-45, 46-50, 51-55, 56-65). Issue age bands were chosen so that there was an approximately equal number of observations in each bin. More bins were required towards higher ages due to the steep increase in mortality after age 60, and higher risk groups should be separately charged appropriate premiums to mitigate a possible inequitable access risk. 
+- Aggregate profits on the last twenty years were estimated using before and after intervention, using a reduction in mortality after intervention computed on given mortality reduction bounds of 4.94% and 9.76%. The impact of the smoking cessation program was modelled across the entire range of cessation proportions, and mortality of lapsed smokers was estimated as the average of smokers and nonsmokers according to our assumption. Initial expenses were increased with the introduction of interventions based on given costs and research (Program). Smoker policies incurred expenses associated with the smoking cessation program.
+- The aggregate profit was calculated by holding the premium constant with reduced mortalities and higher expenses across the current count of policyholders.
+- Aggregate future profits were again calculated by considering the reduction in mortality and the increase in expense. Below is our central estimate for future profits with and without the interventions.
+![central_profit_proj](central_profit_proj.png)
+
+## Sensitivity Analysis
+- Due to a lack of understanding of SuperLife’s expense structure, and external impacts listed in the Risk and Risk Mitigation Considerations section, a set of three estimates of expenses were used to calculate profits of SuperLife, representing the optimistic, pessimistic, and central estimates.
+- The impact of each intervention on mortality had a degree of uncertainty and thus the upper and lower bounds of the impact were considered.
+- Due to reinvestment risk, three scenarios of interest rates were also used.
+- In mitigating model risk with regards to predictions on customer growth, lower and upper confidence bounds of 95% were further considered.
+- A range of estimated change in profits were calculated on intervention impacts if the intervention were introduced twenty years ago, with a figure of 15% increase in profit assuming the pessimistic expenses scenario. 
+![sensitivity](sensitivity.png)
+- The projections highlight that the intervention should outperform sales without the intervention.
+- In the most pessimistic scenario, the expected cumulative profits in 2028, 2033 and 2043 are 203.97%, 208.03%, and 170.64% more than the corresponding profit without intervention in that scenario.
+- In the most optimistic scenario, the expected cumulative profits in 2028, 2033 and 2043 are 247.25%, 248.47%, and 206.95% more than the corresponding profit without intervention in that scenario.
+- An unfavourable scenario we investigated was the exclusive underwriting of 20 year term policies to 35 year old smokers with a zero cessation rate, in which we observed an annual drop in profits of 9.16% due to the largely increased expenses.
+
+## Assumptions
+
+| Assumption                              | Rationale and Analysis                                                                                                   |
+|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Conservative investment growth rate     | Conservative investment growth rate assumed to be equal to the risk-free 1 year spot rate.                             |
+| Prevalent decrements for T20 and SPWL  | Assume that the only decrements for term policies are withdrawal and deaths. For single premium policies, only decrement is death. |
+| Lapse rates                             | Lapse rates are constant for the duration of the policy. This was supported by our lapse rates estimates from the in force dataset. |
+| Mortality curves of Lumarians           | The shape of the mortality curves of Superlife’s insured policyholders should follow that of the general population in 2010 provided by Superlife. Assume the mortality curves of different subsets of insured policy holders can be obtained by a linear transformation of the provided mortality curve. |
+| Commissions and expenses                | Payment of commissions and expenses over time could be appropriately based on figures from existing insurance companies. |
+| Independence of intervention effect     | The impacts of each intervention program were independent of each other, to ease calculations. Their impact was also assumed to be the same per policyholder, despite the possibility that specific individuals would benefit more from the intervention. |
+| The mortality of lapsed smokers         | The mortality of lapsed smokers lies between the mortality of smokers and nonsmokers. |
+| Exchange to USD                         | Assume the exchange rate from Lumarian Crowns to USD is pegged at a single rate. All calculations were made in USD at this pegged exchange rate. |
+| Participation rate                      | The participation rate is a function of benefits provided by the intervention. |
+| Youngest Age                            | The youngest age of a person purchasing insurance was 26.  |
+
+## Risk and Risk Mitigation Considerations
+
+| Quantitative Risk                                                   | Mitigation  |
+|--------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Reinvestment risk related to investments into fixed income securities which are susceptible to interest rate fluctuations 	| Test the effects of adverse interest fluctuations on discounted profits. Hedge against decreasing long-term interest rates by buying interest rate options
+| Economic forecasts risk 	| Future forecasted rates of inflation and interest rates do not reflect true movements in variables impacting accuracy of the model
+| Expense risk relating to maintenance of incentives programs 	| Conducting cost-benefit analysis to evaluate effectiveness of different incentives programs, cost-plus process to ensure profits are maintained
+| Cost overrun risk where project costs deviate from actual experience 	| Establish contingency funds to address unexpected program costs and fluctuations in expenses.
+| Low participation rates in incentive programs - expected mortality and economics benefits will not be realised 	| Implement increased targeted market campaigns focusing on the distribution channels and educational initiatives to promote program awareness and encourage participation among policyholders.
+| Pandemic Risk: a pandemic may present an adverse change to the mortality of Lumarians 	| Sensitivity testing for extreme increases in mortality rate caused by pandemic
+
+![Risk Matrix](risk-matrix.png)
+
+| Qualitative Risk                                                   | Mitigation  |
+|--------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Regulatory changes | Compliance monitoring to stay informed about regulatory changes and ensure compliance with laws and regulations.
+| Negative Public Perception risk: If the program is perceived as exploiting users for their personal data or promoting unattainable body image standards.| Being transparent about privacy policies and data usage. Emphasis on the program being to promote healthier lifestyles rather than a focus on physical appearance. 
+| Inequitable access risk: Socioeconomic factors may affect accessibility of programs to certain subsections of the population. | Implementing outreach programs and potential subsidies to make programs more accessible for everybody. Apps would have better UI and UX to accommodate for people who are less technologically literate.
+
+## Conclusion and Recommendations
+The potential for SuperLife’s growth and development in Lumaria’s health through our proposed Well-being app, smoking cessation and hiking groups is significant. By investing in these proactive measures, SuperLife stands to realise reduced healthcare costs, fewer insurance claims, and enhanced customer satisfaction, creating shared value within Lumaria. 
+
+To increase the likelihood of success in the future, regular maintenance must be implemented on the program design. Constant monitoring of key metrics of profit, policyholder mortality, customer satisfaction and participation rates will allow SuperLife to complete the actuarial control cycle, continually adjusting project parameters to cater for the ever-changing economic and consumer environment in which the company operates.
+
